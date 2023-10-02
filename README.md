@@ -1,6 +1,6 @@
-Hi 👋 My name is Mina Azizzadeh
+### Hi 👋 My name is Mina Azizzadeh
 
-Frontend Developer
+### Frontend Developer
 
 Web wizard with a passion for coding! 🚀 Front-end developer experienced in PWAs and admin dashboards, rocking HTML, CSS, JavaScript, TypeScript, and Angular. I'm all about crushing challenges, whether solo or in a team. Let's cook up some awesome web experiences together!😎🌟
 
