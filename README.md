@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mina Azizzadeh
+Hi 👋 My name is Mina Azizzadeh
 ======================================================================================================================================
 
-Frontend Devloper
+Frontend Developer
 -----------------
 
 Web wizard with a passion for coding! 🚀 Front-end developer experienced in PWAs and admin dashboards, rocking HTML, CSS, JavaScript, TypeScript, and Angular. I'm all about crushing challenges, whether solo or in a team. Let's cook up some awesome web experiences together!😎🌟
 
-* 🌍  I'm based in Iran , Tehran
+* 🌍  I'm based in Iran, Tehran
 * ✉️  You can contact me at [mina.azizzadeh.dev@gmail.com](mailto:mina.azizzadeh.dev@gmail.com)
 * 🚀  I'm currently working on [Mova](http://mova-pi.vercel.app)
 * 🧠  I'm learning Angular
